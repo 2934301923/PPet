@@ -75,7 +75,7 @@
 
 [这里](https://github.com/zenghongtu/PPet/releases)去下载最新版本，或者下面的指定系统版本。
 
-蓝奏云备份: https://www.lanzous.com/b044af9ib 密码:6g7n
+蓝奏云备份: https://www.lanzoux.com/b044af9ib 密码:6g7n
 
 ### Mac
 
